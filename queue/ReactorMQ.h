@@ -2,5 +2,7 @@
 
 class ReactorMQ
 {
-
+public:
+	ReactorMQ();
+	~ReactorMQ();
 }
